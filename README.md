@@ -16,7 +16,7 @@ python源码copy于(https://github.com/lepecoder/checkin)
 示例：**USER:123456,24678**，**PWD:cxkjntm,jntmcxk**
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
 
-## 三、启用Action
+## 三、启用Action.-
 1 点击**Action**，再点击**I understand my workflows, go ahead and enable them**  
 2 修改任意文件后提交一次  
 ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
