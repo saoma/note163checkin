@@ -21,7 +21,7 @@ python源码copy于(https://github.com/lepecoder/checkin)
 2 修改任意文件后提交一次  
 ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
 
-## 四、查看运行结果
+## 四、查看运行结果0
 Actions > note163Checkin > build  
 能看到如下图所示，表示成功  
 ![](http://note.youdao.com/yws/public/resource/17edb8861d2106a5c39ec94d91919150/xmlnote/48958A4994D64C20867281B67B7CDAFD/1059)
